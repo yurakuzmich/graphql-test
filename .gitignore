@@ -1,0 +1,32 @@
+# Node.js
+node_modules/
+
+# TypeScript
+*.tsbuildinfo
+*.js
+*.js.map
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Test directory
+__tests__/
+
+# Build output
+dist/
+
+# GraphQL
+graphql.schema.json
+
+# Environment variables
+.env
+
+# Dependency lock files
+yarn.lock
+package-lock.json
